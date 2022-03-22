@@ -26,3 +26,5 @@ Static testing is about the prevention of defects whereas Dynamic testing is abo
 Static testing does the verification process while Dynamic testing does the validation process.
 Static testing is performed before compilation whereas Dynamic testing is performed after compilation.
 Static testing techniques are structural and statement coverage while Dynamic testing techniques are Boundary Value Analysis & Equivalence Partitioning.
+
+create page 2
