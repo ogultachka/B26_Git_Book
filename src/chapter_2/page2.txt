@@ -1,1 +1,12 @@
 write any text here/ for practice
+Static Testing Techniques:
+Informal Reviews: This is one of the type of review which doesn’t follow any process to find errors in the document. Under this technique, you just review the document and give informal comments on it.
+Technical Reviews: A team consisting of your peers,   review the technical specification of the software product and checks whether it is suitable for the project. They try to find any discrepancies in the specifications and standards followed. This review concentrates mainly on the technical documentation related to the software such as Test Strategy, Test Plan and requirement specification documents.
+Walkthrough: The author of the work product explains the product to his team. Participants can ask questions if any.  A meeting is led by the author. Scribe makes note of review comments
+Inspection: The main purpose is to find defects and meeting is led by a trained moderator. This review is a formal type of review where it follows a strict process to find the defects. Reviewers have a checklist to review the work products.They record the defect and inform the participants to rectify those errors.
+Static code Review: This is a systematic review of the software source code without executing the code. It checks the syntax of the code, coding standards, code optimization, etc. This is also termed as white box testing.This review can be done at any point during development.
+Dynamic Testing Techniques:
+Unit Testing: Under Unit Testing, individual units or modules are tested by the developers. It involves testing of source code by developers.
+Integration Testing: Individual modules are grouped together and tested by the developers. The purpose is to determine what modules are working as expected once they are integrated.
+System Testing: System Testing is performed on the whole system by checking whether the system or application meets the requirement specification document.
+Also, Non-functional testing like performance, Security Testing fall under the category of dynamic testing.
